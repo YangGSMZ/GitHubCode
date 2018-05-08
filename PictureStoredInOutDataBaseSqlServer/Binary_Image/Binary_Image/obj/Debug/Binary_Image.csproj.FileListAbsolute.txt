@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Binary_Image\Binary_Image\bin\Debug\Binary_Image.exe.config
+C:\Users\Administrator\Desktop\Binary_Image\Binary_Image\bin\Debug\Binary_Image.exe
+C:\Users\Administrator\Desktop\Binary_Image\Binary_Image\bin\Debug\Binary_Image.pdb
+C:\Users\Administrator\Desktop\Binary_Image\Binary_Image\obj\Debug\Binary_Image.Form1.resources
+C:\Users\Administrator\Desktop\Binary_Image\Binary_Image\obj\Debug\Binary_Image.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Binary_Image\Binary_Image\obj\Debug\Binary_Image.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Binary_Image\Binary_Image\obj\Debug\Binary_Image.exe
+C:\Users\Administrator\Desktop\Binary_Image\Binary_Image\obj\Debug\Binary_Image.pdb
+C:\Users\Administrator\Desktop\Binary_Image\Binary_Image\obj\Debug\Binary_Image.csprojResolveAssemblyReference.cache
+E:\C#_Practice\图片存取数据库\Binary_Image\Binary_Image\bin\Debug\Binary_Image.exe.config
+E:\C#_Practice\图片存取数据库\Binary_Image\Binary_Image\obj\Debug\Binary_Image.exe
+E:\C#_Practice\图片存取数据库\Binary_Image\Binary_Image\obj\Debug\Binary_Image.pdb

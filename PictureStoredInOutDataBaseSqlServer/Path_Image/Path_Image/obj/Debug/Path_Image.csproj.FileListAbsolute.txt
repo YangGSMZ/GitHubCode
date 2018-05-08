@@ -1,0 +1,27 @@
+C:\Users\Administrator\Desktop\Path_Image\Path_Image\bin\Debug\Path_Image.exe.config
+C:\Users\Administrator\Desktop\Path_Image\Path_Image\obj\Debug\Path_Image.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Path_Image\Path_Image\obj\Debug\Path_Image.Form1.resources
+C:\Users\Administrator\Desktop\Path_Image\Path_Image\obj\Debug\Path_Image.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Path_Image\Path_Image\obj\Debug\Path_Image.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Path_Image\Path_Image\bin\Debug\Path_Image.exe
+C:\Users\Administrator\Desktop\Path_Image\Path_Image\bin\Debug\Path_Image.pdb
+C:\Users\Administrator\Desktop\Path_Image\Path_Image\obj\Debug\Path_Image.exe
+C:\Users\Administrator\Desktop\Path_Image\Path_Image\obj\Debug\Path_Image.pdb
+C:\Users\Administrator\Desktop\Path_Image - 副本\Path_Image\bin\Debug\Path_Image.exe.config
+C:\Users\Administrator\Desktop\Path_Image - 副本\Path_Image\obj\Debug\Path_Image.exe
+C:\Users\Administrator\Desktop\Path_Image - 副本\Path_Image\obj\Debug\Path_Image.pdb
+C:\Users\Administrator\Desktop\Path_Image - 副本\Path_Image\bin\Debug\Path_Image.exe
+C:\Users\Administrator\Desktop\Path_Image - 副本\Path_Image\bin\Debug\Path_Image.pdb
+C:\Users\Administrator\Desktop\Path_Image - 副本\Path_Image\obj\Debug\Path_Image.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Path_Image - 副本\Path_Image\obj\Debug\Path_Image.Form1.resources
+C:\Users\Administrator\Desktop\Path_Image - 副本\Path_Image\obj\Debug\Path_Image.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Path_Image - 副本\Path_Image\obj\Debug\Path_Image.csproj.GenerateResource.Cache
+E:\C#_Practice\图片存取数据库\Path_Image\Path_Image\bin\Debug\Path_Image.exe.config
+E:\C#_Practice\图片存取数据库\Path_Image\Path_Image\obj\Debug\Path_Image.exe
+E:\C#_Practice\图片存取数据库\Path_Image\Path_Image\obj\Debug\Path_Image.pdb
+E:\C#_Practice\图片存取数据库\Path_Image\Path_Image\bin\Debug\Path_Image.exe
+E:\C#_Practice\图片存取数据库\Path_Image\Path_Image\bin\Debug\Path_Image.pdb
+E:\C#_Practice\图片存取数据库\Path_Image\Path_Image\obj\Debug\Path_Image.csprojResolveAssemblyReference.cache
+E:\C#_Practice\图片存取数据库\Path_Image\Path_Image\obj\Debug\Path_Image.Form1.resources
+E:\C#_Practice\图片存取数据库\Path_Image\Path_Image\obj\Debug\Path_Image.Properties.Resources.resources
+E:\C#_Practice\图片存取数据库\Path_Image\Path_Image\obj\Debug\Path_Image.csproj.GenerateResource.Cache
